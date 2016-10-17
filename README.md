@@ -2,7 +2,7 @@
 ![maxresdefault](https://cloud.githubusercontent.com/assets/812439/19454940/c24d36ec-94c3-11e6-9c0b-2a62187cbf53.jpg)
 
 
-# ![logo](http://wowsource.info/public/style_images/1_cooltext1537712788.gif)
+# ![1_cooltext1537712788](https://cloud.githubusercontent.com/assets/812439/19455510/e585b88a-94c5-11e6-9cbf-f5d8616dea7d.gif)
 
 # WoWSource Core
 
